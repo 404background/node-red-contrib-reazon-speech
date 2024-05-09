@@ -1,0 +1,19 @@
+{
+  "name": "@background404/node-red-contrib-reazon-speech",
+  "version": "0.0.1",
+  "description": "Node for ReazonSpeech",
+  "main": "reazonspeech.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "python setup.py"
+  },
+  "keywords": [
+    "node-red",
+    "reazonspeech"
+  ],
+  "author": "background404",
+  "license": "Apache-2.0"
+}
