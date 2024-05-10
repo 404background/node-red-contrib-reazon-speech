@@ -19,5 +19,5 @@ module.exports = function(RED) {
             node.send(msg)
         })
     }
-    RED.nodes.registerType('pip',Pip)
+    RED.nodes.registerType('reazonspeech',Pip)
 }
