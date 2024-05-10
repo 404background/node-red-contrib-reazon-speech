@@ -1,9 +1,11 @@
 # ignore
 
 pyenv/
-path.json
+!package.json
+*.json
+*.wav
 tmp/
-package-lock.json
+ReazonSpeech
 
 # Node
 
